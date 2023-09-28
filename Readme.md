@@ -1,7 +1,7 @@
 # YAKAMOZ
 ![Yakamoz keyboard](Images/yakamoz.png)
 
-Yakamoz is a 50-key ortholinear keyboard, powered by a Raspberry Pi Pico. It consists of 1U keys with an OLED display, buzzer, trackball (optional) and RGB leds. It also supports hotswap, which means you can easily change Change with Cherry MX compatible switches
+Yakamoz is a 50-key ortholinear keyboard, powered by a Raspberry Pi Pico. It consists of 1U keys with an OLED display, buzzer, trackball (optional) and RGB leds. It also supports hotswap, which means you can easily change with Cherry MX compatible switches
 
 ## Parts List and Build Guide
 Please find detailed build instructions here: [https://ozkancelik.com/yakamoz/](https://ozkancelik.com/yakamoz/)
